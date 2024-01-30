@@ -1,0 +1,22 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="GameManager">
+			<method name="IfTheAnswerButtonIsPressedInTheGameMenu"/>
+			<method name="IfTheAnswerButtonIsPressedInTheGameMenu"/>
+			<method name="IfTheAnswerButtonIsPressedInTheGameMenu"/>
+			<method name="IfTheAnswerButtonIsPressedInTheGameMenu"/>
+			<method name="IfTheButtonIsPressedAgainInTheFinalMenu"/>
+			<method name="IfTheGameStartButtonIsPressed"/>
+			<method name="PresAddButton"/>
+		</type>
+		<type fullname="Sounds">
+			<method name="PlayS"/>
+			<method name="PlayS"/>
+			<method name="PlayS"/>
+			<method name="PlayS"/>
+			<method name="PlayS"/>
+			<method name="PlayS"/>
+			<method name="PlayS"/>
+		</type>
+	</assembly>
+</linker>
